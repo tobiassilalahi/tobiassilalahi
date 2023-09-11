@@ -16,4 +16,4 @@ My name is Tobias and I'm a computer science student from Melbourne, Australia. 
 
 ## 📫 Reach me
 
-You can reach me by email at matthewdukepan@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/silalahitobias).
+You can reach me by email at tobias.silalahi@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/silalahitobias).
