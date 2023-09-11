@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**tobiassilalahi/tobiassilalahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Tobias and I'm a computer science student from Melbourne, Australia. Here's some info about me!
 
-Here are some ideas to get you started:
+## ⚡ Work experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Data Analyst at Gravel - Financial and Product Data Team . [Remote. Bali, Indonesia, 2022]
+- CEO and Machine Learning Engineer at Bacara - Non-Profit Organization from Google Indonesia. [Jakarta, Indonesia  2021]
+- Research Assistant at University of Indonesia - Human-Computer-Interaction Research Division. [Jakarta, Indonesia. 2020]
+
+## 🌱 Interests
+
+- Machine Learning.
+- Backend Development.
+  
+
+## 📫 Reach me
+
+You can reach me by email at matthewdukepan@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/silalahitobias).
