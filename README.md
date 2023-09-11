@@ -4,9 +4,9 @@ My name is Tobias and I'm a computer science student from Melbourne, Australia. 
 
 ## ⚡ Work experience
 
-- Data Analyst at Gravel - Financial and Product Data Team . [Remote. Bali, Indonesia, 2022]
-- CEO and Machine Learning Engineer at Bacara - Non-Profit Organization from Google Indonesia. [Jakarta, Indonesia  2021]
-- Research Assistant at University of Indonesia - Human-Computer-Interaction Research Division. [Jakarta, Indonesia. 2020]
+- **Data Analyst** at **Gravel** - Financial and Product Data Team . [Remote. Bali, Indonesia, 2022]
+- **CEO** and **Machine Learning Engineer** at **Bacara** - Non-Profit Organization from Google Indonesia. [Jakarta, Indonesia  2021]
+- **Research Assistant** at **University of Indonesia** - Human-Computer-Interaction Research Division. [Jakarta, Indonesia. 2020]
 
 ## 🌱 Interests
 
