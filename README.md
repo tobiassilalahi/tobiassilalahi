@@ -13,14 +13,13 @@ Hi, I’m **Tobias**, an experienced Software Engineer and Data Scientist. With 
 ---
 
 ## ⚡ Current Role
-💻 I’m currently a **Software Engineer** at the **[University of Melbourne]([https://www.youtube.com/watch?v=WRROIvdB57c&t=376s&ab_channel=ThomasKenRonaldi](https://www.unimelb.edu.au/))**, **Australia**, contributing to the **Application Development Team**.
+💻 I’m currently a **Software Engineer** at the **[University of Melbourne]([https://www.unimelb.edu.au))**, **Australia**, contributing to the **Application Development Team**.
 
 ---
 
 ## 🤖 ML Fact: Bacara Indonesia
 Me and my cofounder built **[Bacara](https://www.youtube.com/watch?v=WRROIvdB57c&t=376s&ab_channel=ThomasKenRonaldi)**, an Android application and website that translates **sign language to text and voice in real-time**, supporting **200+ sign languages**.  
-We were the **Winner of Bangkit Academy by Google Indonesia** and received seed funding!  
-Check out more about Bangkit Academy [here](https://grow.google/intl/id_id/bangkit/?tab=machine-learning).
+We were the **Winner of [Bangkit Academy](https://grow.google/intl/id_id/bangkit/?tab=machine-learning) by [Google Indonesia](https://www.google.com/about/careers/applications/locations/jakarta/)** and received seed funding!  
 
 ---
 
