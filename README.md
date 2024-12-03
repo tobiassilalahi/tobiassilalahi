@@ -13,7 +13,7 @@ Hi, I’m **Tobias**, an experienced Software Engineer and Data Scientist. With 
 ---
 
 ## ⚡ Current Role
-💻 I’m currently a **Software Engineer** at the **[University of Melbourne]([https://www.unimelb.edu.au))**, **Australia**, contributing to the **Application Development Team**.
+💻 I’m currently a **Software Engineer** at the **[University of Melbourne](https://www.unimelb.edu.au)**, **Australia**, contributing to the **Application Development Team**.
 
 ---
 
